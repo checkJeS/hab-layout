@@ -13,4 +13,25 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+
+    <string name="year">Year:</string>
+
+    <string-array name="years">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+        <item>Five Plus</item>
+    </string-array>
+
+    <string-array name="my_classes">
+        <item>Math 021</item>
+        <item>WRI 001</item>
+        <item>WRI 010</item>
+        <item>GASP 002</item>
+        <item>POLI 001</item>
+        <item>CSE 020</item>
+        <item>CSE 021</item>
+        <item>CSE 30</item>
+    </string-array>
 </resources>
